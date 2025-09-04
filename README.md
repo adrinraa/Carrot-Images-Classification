@@ -8,3 +8,6 @@ This repository contains an image classification project focused on carrot quali
 - **Classification:** Extracted features are fed into a Multiclass SVM (One-vs-One and One-vs-Rest) to perform final classification.
 - **Dataset:** Carrot images collected and labeled into six classes.
 - **Environment:** Developed and trained using Google Colab.
+
+### Dataset ###
+https://github.com/adrinraa/Wortel/tree/master
